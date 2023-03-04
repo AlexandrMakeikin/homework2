@@ -1,0 +1,30 @@
+C:\Users\александр\Desktop\C#\home work\home work.seminar 2\task15\obj\Debug\net7.0\task15.csproj.AssemblyReference.cache
+C:\Users\александр\Desktop\C#\home work\home work.seminar 2\task15\obj\Debug\net7.0\task15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\александр\Desktop\C#\home work\home work.seminar 2\task15\obj\Debug\net7.0\task15.AssemblyInfoInputs.cache
+C:\Users\александр\Desktop\C#\home work\home work.seminar 2\task15\obj\Debug\net7.0\task15.AssemblyInfo.cs
+C:\Users\александр\Desktop\C#\home work\home work.seminar 2\task15\obj\Debug\net7.0\task15.csproj.CoreCompileInputs.cache
+C:\Users\александр\Desktop\C#\home work\home work.seminar 2\task15\bin\Debug\net7.0\task15.exe
+C:\Users\александр\Desktop\C#\home work\home work.seminar 2\task15\bin\Debug\net7.0\task15.deps.json
+C:\Users\александр\Desktop\C#\home work\home work.seminar 2\task15\bin\Debug\net7.0\task15.runtimeconfig.json
+C:\Users\александр\Desktop\C#\home work\home work.seminar 2\task15\bin\Debug\net7.0\task15.dll
+C:\Users\александр\Desktop\C#\home work\home work.seminar 2\task15\bin\Debug\net7.0\task15.pdb
+C:\Users\александр\Desktop\C#\home work\home work.seminar 2\task15\obj\Debug\net7.0\task15.dll
+C:\Users\александр\Desktop\C#\home work\home work.seminar 2\task15\obj\Debug\net7.0\refint\task15.dll
+C:\Users\александр\Desktop\C#\home work\home work.seminar 2\task15\obj\Debug\net7.0\task15.pdb
+C:\Users\александр\Desktop\C#\home work\home work.seminar 2\task15\obj\Debug\net7.0\task15.genruntimeconfig.cache
+C:\Users\александр\Desktop\C#\home work\home work.seminar 2\task15\obj\Debug\net7.0\ref\task15.dll
+C:\Users\makey\OneDrive\Рабочий стол\C#\home work\home work.seminar 2\task15\bin\Debug\net7.0\task15.exe
+C:\Users\makey\OneDrive\Рабочий стол\C#\home work\home work.seminar 2\task15\bin\Debug\net7.0\task15.deps.json
+C:\Users\makey\OneDrive\Рабочий стол\C#\home work\home work.seminar 2\task15\bin\Debug\net7.0\task15.runtimeconfig.json
+C:\Users\makey\OneDrive\Рабочий стол\C#\home work\home work.seminar 2\task15\bin\Debug\net7.0\task15.dll
+C:\Users\makey\OneDrive\Рабочий стол\C#\home work\home work.seminar 2\task15\bin\Debug\net7.0\task15.pdb
+C:\Users\makey\OneDrive\Рабочий стол\C#\home work\home work.seminar 2\task15\obj\Debug\net7.0\task15.csproj.AssemblyReference.cache
+C:\Users\makey\OneDrive\Рабочий стол\C#\home work\home work.seminar 2\task15\obj\Debug\net7.0\task15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makey\OneDrive\Рабочий стол\C#\home work\home work.seminar 2\task15\obj\Debug\net7.0\task15.AssemblyInfoInputs.cache
+C:\Users\makey\OneDrive\Рабочий стол\C#\home work\home work.seminar 2\task15\obj\Debug\net7.0\task15.AssemblyInfo.cs
+C:\Users\makey\OneDrive\Рабочий стол\C#\home work\home work.seminar 2\task15\obj\Debug\net7.0\task15.csproj.CoreCompileInputs.cache
+C:\Users\makey\OneDrive\Рабочий стол\C#\home work\home work.seminar 2\task15\obj\Debug\net7.0\task15.dll
+C:\Users\makey\OneDrive\Рабочий стол\C#\home work\home work.seminar 2\task15\obj\Debug\net7.0\refint\task15.dll
+C:\Users\makey\OneDrive\Рабочий стол\C#\home work\home work.seminar 2\task15\obj\Debug\net7.0\task15.pdb
+C:\Users\makey\OneDrive\Рабочий стол\C#\home work\home work.seminar 2\task15\obj\Debug\net7.0\task15.genruntimeconfig.cache
+C:\Users\makey\OneDrive\Рабочий стол\C#\home work\home work.seminar 2\task15\obj\Debug\net7.0\ref\task15.dll

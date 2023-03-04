@@ -1,0 +1,30 @@
+C:\Users\александр\Desktop\C#\home work\home work.seminar 2\task10\bin\Debug\net7.0\task10.exe
+C:\Users\александр\Desktop\C#\home work\home work.seminar 2\task10\bin\Debug\net7.0\task10.deps.json
+C:\Users\александр\Desktop\C#\home work\home work.seminar 2\task10\bin\Debug\net7.0\task10.runtimeconfig.json
+C:\Users\александр\Desktop\C#\home work\home work.seminar 2\task10\bin\Debug\net7.0\task10.dll
+C:\Users\александр\Desktop\C#\home work\home work.seminar 2\task10\bin\Debug\net7.0\task10.pdb
+C:\Users\александр\Desktop\C#\home work\home work.seminar 2\task10\obj\Debug\net7.0\task10.csproj.AssemblyReference.cache
+C:\Users\александр\Desktop\C#\home work\home work.seminar 2\task10\obj\Debug\net7.0\task10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\александр\Desktop\C#\home work\home work.seminar 2\task10\obj\Debug\net7.0\task10.AssemblyInfoInputs.cache
+C:\Users\александр\Desktop\C#\home work\home work.seminar 2\task10\obj\Debug\net7.0\task10.AssemblyInfo.cs
+C:\Users\александр\Desktop\C#\home work\home work.seminar 2\task10\obj\Debug\net7.0\task10.csproj.CoreCompileInputs.cache
+C:\Users\александр\Desktop\C#\home work\home work.seminar 2\task10\obj\Debug\net7.0\task10.dll
+C:\Users\александр\Desktop\C#\home work\home work.seminar 2\task10\obj\Debug\net7.0\refint\task10.dll
+C:\Users\александр\Desktop\C#\home work\home work.seminar 2\task10\obj\Debug\net7.0\task10.pdb
+C:\Users\александр\Desktop\C#\home work\home work.seminar 2\task10\obj\Debug\net7.0\task10.genruntimeconfig.cache
+C:\Users\александр\Desktop\C#\home work\home work.seminar 2\task10\obj\Debug\net7.0\ref\task10.dll
+C:\Users\makey\OneDrive\Рабочий стол\C#\home work\home work.seminar 2\task10\bin\Debug\net7.0\task10.exe
+C:\Users\makey\OneDrive\Рабочий стол\C#\home work\home work.seminar 2\task10\bin\Debug\net7.0\task10.deps.json
+C:\Users\makey\OneDrive\Рабочий стол\C#\home work\home work.seminar 2\task10\bin\Debug\net7.0\task10.runtimeconfig.json
+C:\Users\makey\OneDrive\Рабочий стол\C#\home work\home work.seminar 2\task10\bin\Debug\net7.0\task10.dll
+C:\Users\makey\OneDrive\Рабочий стол\C#\home work\home work.seminar 2\task10\bin\Debug\net7.0\task10.pdb
+C:\Users\makey\OneDrive\Рабочий стол\C#\home work\home work.seminar 2\task10\obj\Debug\net7.0\task10.csproj.AssemblyReference.cache
+C:\Users\makey\OneDrive\Рабочий стол\C#\home work\home work.seminar 2\task10\obj\Debug\net7.0\task10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makey\OneDrive\Рабочий стол\C#\home work\home work.seminar 2\task10\obj\Debug\net7.0\task10.AssemblyInfoInputs.cache
+C:\Users\makey\OneDrive\Рабочий стол\C#\home work\home work.seminar 2\task10\obj\Debug\net7.0\task10.AssemblyInfo.cs
+C:\Users\makey\OneDrive\Рабочий стол\C#\home work\home work.seminar 2\task10\obj\Debug\net7.0\task10.csproj.CoreCompileInputs.cache
+C:\Users\makey\OneDrive\Рабочий стол\C#\home work\home work.seminar 2\task10\obj\Debug\net7.0\task10.dll
+C:\Users\makey\OneDrive\Рабочий стол\C#\home work\home work.seminar 2\task10\obj\Debug\net7.0\refint\task10.dll
+C:\Users\makey\OneDrive\Рабочий стол\C#\home work\home work.seminar 2\task10\obj\Debug\net7.0\task10.pdb
+C:\Users\makey\OneDrive\Рабочий стол\C#\home work\home work.seminar 2\task10\obj\Debug\net7.0\task10.genruntimeconfig.cache
+C:\Users\makey\OneDrive\Рабочий стол\C#\home work\home work.seminar 2\task10\obj\Debug\net7.0\ref\task10.dll
